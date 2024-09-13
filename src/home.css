@@ -69,12 +69,12 @@ img{
     height: 250px;
     position: absolute;
     top: 150px;
-    left: 100px;
+    left: 50px;
 }
 .coffee2{
     position: absolute;
     top:370px;
-    left:30px;
+    left:-30px;
 }
 button{
     margin-top:5px;
